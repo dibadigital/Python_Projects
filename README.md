@@ -1,5 +1,5 @@
 # Python_Beginner_Projects
-Python Programming Projects: Beginner, Advanced
+Python Programming Projects: Beginner & Advanced
 
 1- GraphicButtonPython
 
